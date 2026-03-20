@@ -20,7 +20,6 @@ export default function Navbar() {
       pillColor="#ffffff"
       hoveredPillTextColor="#ffffff"
       pillTextColor="#000000"
-      theme="light"
       initialLoadAnimation={false}
     />
   );
